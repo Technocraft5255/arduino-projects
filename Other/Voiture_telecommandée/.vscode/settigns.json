@@ -1,0 +1,7 @@
+{
+    "arduino.path": "C:/Program Files/Arduino CLI",
+    "arduino.cli.path": "C:/Program Files/Arduino CLI",
+    "arduino.fqbn": "arduino:avr:uno",
+    "arduino.port": "/dev/ttyACM0"
+  }
+  

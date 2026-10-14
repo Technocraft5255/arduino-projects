@@ -1,0 +1,2 @@
+L61::END{document.getElementById(\"display_value\").innerHTML = value;}
+L50::START{Serial.println(brightness);}
