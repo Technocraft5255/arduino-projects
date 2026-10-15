@@ -2,7 +2,8 @@
 
 A collection of all the Arduino projects I've built, including my experiments and progress.
 
-> [!NOTE] The files are not currently well organized. We are working on a better structure for this repository.
+> [!NOTE]
+> The files are not currently well organized. We are working on a better structure for this repository.
 >
 > README.md files for all projects are coming soon.
 
